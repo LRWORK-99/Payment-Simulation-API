@@ -1,0 +1,1 @@
+Simulated payment API: idempotent payments, correct money handling, no real card data
